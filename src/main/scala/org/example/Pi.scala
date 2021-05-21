@@ -5,7 +5,7 @@ import scala.math.random
 import org.apache.spark.sql.SparkSession
 
 /** Computes an approximation to pi */
-object SparkPi {
+object Pi {
   def main(args: Array[String]) {
     val spark = SparkSession
       .builder
