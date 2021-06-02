@@ -1,0 +1,12 @@
+2021-06-02 16:40:32: Starting HiveServer2
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/dunalang/duanlang/plat/apache-hive-3.1.2-bin/lib/log4j-slf4j-impl-2.10.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/dunalang/duanlang/plat/hadoop-3.2.2/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Hive Session ID = b6fde0e6-8917-4ce4-b05a-f4c872c2dfb9
+Hive Session ID = d2707624-e433-4c90-995d-e066d490c5b4
+Hive Session ID = f25edb1c-5507-4403-acf2-c76887eb54ec
+Hive Session ID = 12a68f44-34df-490d-845f-961a92706dcb
+OK
+OK
